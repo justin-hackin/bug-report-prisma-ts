@@ -1,6 +1,6 @@
 # Bug Report
 
-This is a bug report for issues with prisma types. Derived from:
+This is a bug report for [this issues with prisma types](https://github.com/prisma/prisma/issues/23461). Derived from:
 
 # Simple TypeScript Script Example
 
